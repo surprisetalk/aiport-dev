@@ -1,0 +1,29 @@
+{
+  "name": "aiport-dev",
+  "version": "0.0.1",
+  "description": "aiport dev tools",
+  "main": "dev.js",
+  "dependencies": {
+    "consolidate": "^0.14.1",
+    "jade": "^1.11.0",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surprisetalk/aiport-dev.git"
+  },
+  "keywords": [
+    "aiport",
+    "dev"
+  ],
+  "author": "taylor sarrafian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/surprisetalk/aiport-dev/issues"
+  },
+  "homepage": "https://github.com/surprisetalk/aiport-dev#readme"
+}
